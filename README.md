@@ -1,7 +1,7 @@
-## Description
+# Java Password Generator
 This is a password generator that will generate a random password based on the criteria selected by the user. The user will be prompted to select the length of the password and a password including uppercase letters, lowercase letters, numbers, and/or special characters will be generated. After generating the password, the user can simply copy and paste the password to use it.
 
-## Save Locally
+# Save Locally
 1. Open the [Password Generator](#https://github.com/Mohitur669/Random-Password-Generator) in your browser.
 2. Click on the green button labeled `Clone or download`.
 3. Click on `Download ZIP` or copy the link and clone the repository to your computer.
