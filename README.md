@@ -10,5 +10,10 @@ This is a password generator that will generate a random password based on the c
 6. Press `Enter` to create your local clone.
 7. Open it in your favorite IDE and have fun!
 
-## Credits
-* For any changes contact [Mohd Mohitur Rahaman](#mohitur669@gmailcom).
+# About me
+I am Mohd Mohitur Rahaman, and currently, I am pursuing MCA from KIIT University, Bhubaneswar. Talking about my previous educational background, I did my BSC in Mathematics at Malda College.
+
+- [Mohitur](https://linktr.ee/mohitur)
+
+# Feedback
+If you have any feedback, you can make the changes and create a pull request or, please reach out to me at [here](mohitur669@gmail.com) or [LinkedIn](https://www.linkedin.com/in/mohitur02).
